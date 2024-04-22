@@ -11,9 +11,6 @@ MERIT CERTIFICATES (Among the Top 5 Averages):
 3rd Term - 1st Place
 4th Term - 2nd Place
 5th Term - In Progress
-6th Term - ...
-7th Term - ...
-8th Term - ...
 
 OVERALL:
 
