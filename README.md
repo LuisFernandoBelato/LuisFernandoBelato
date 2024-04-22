@@ -6,11 +6,11 @@ I have obtained the "Microsoft Azure Fundamentals AZ-900" certification (cloud c
 
 MERIT CERTIFICATES (Among the Top 5 Averages):
 
-1st Term - 5th Place
-2nd Term - 2nd Place
-3rd Term - 1st Place
-4th Term - 2nd Place
-5th Term - In Progress
+* 1st Term - 5th Place
+* 2nd Term - 2nd Place
+* 3rd Term - 1st Place
+* 4th Term - 2nd Place
+* 5th Term - In Progress
 
 OVERALL:
 
