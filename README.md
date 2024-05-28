@@ -15,7 +15,7 @@
 
 - ♣️ How to reach me **luisferbelato@gmail.com**
 
-- 🥋 Something More **MERIT CERTIFICATES (Among the Top 5 Averages): 
+- 🥋 Something More **MERIT CERTIFICATES (Among the Top 5 Averages):**
 
 * 1st Term - 5th Place 
 * 2nd Term - 2nd Place 🥈
