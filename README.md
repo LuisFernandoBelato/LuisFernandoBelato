@@ -21,7 +21,8 @@
 * 2nd Term - 2nd Place 🥈
 * 3rd Term - 1st Place 🥇
 * 4th Term - 2nd Place 🥈
-* 5th Term - In Progress
+* 5th Term - 1st Place 🥇
+* 6th Term - 1st Place 🥇
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
