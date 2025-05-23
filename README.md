@@ -5,7 +5,7 @@ Developing payment method for online store.
 
 ## Professional Background
 - **Development** - JavaScript, TypeScript, PHP, SolidJS, Docker, MySQL, Python, Java, mongoDB
-- **Tools** -  Google Colab, MySQL Workbench, Git, Monday (WorkFlow Software)
+- **Tools** -  Google Colab, MySQL Workbench, Git, Monday (WorkFlow Software), Swagger
 
 ## Currently Learning
 - Exploratory Data Analysis & Data Science
@@ -16,11 +16,11 @@ Developing payment method for online store.
 
 
 ## Technical Skills
-| Category        | Technologies                          |
-|-----------------|---------------------------------------|
-| **Analytics**   | Python, Pandas                        |
-| **Backend**     | Node.js, TypeScript, Java (SpringBoot)|
-| **Frontend**    | React, Solid.Js, jQuery               |
+| Category        | Technologies                                  |
+|-----------------|-----------------------------------------------|  
+| **Analytics**   | Python, Pandas                                |
+| **Backend**     | Node.js, TypeScript, Java (SpringBoot), C#    |
+| **Frontend**    | React, Solid.Js, JQuery, Vue.js               |
 
 
 ## WakaTime Coding Activity
