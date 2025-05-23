@@ -16,7 +16,7 @@ Developing payment method for online store.
 
 ## How to Reach Me
 [![Email](https://img.shields.io/badge/Email-luisferbelato@gmail.com-blue?style=flat&logo=gmail)](mailto:luisferbelato@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luis-fernando-belato-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-fernando-belato)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisfernandobelato-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luisfernandobelato)
 
 
 ## Technical Skills
