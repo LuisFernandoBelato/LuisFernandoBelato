@@ -1,4 +1,4 @@
-# Hi, I'm Luis Fernando Oliveira Belato | **Full-Stack Developer**
+# I'm Luis Fernando Oliveira Belato | **Full-Stack Developer**
 
 ## Education
 Pursuing a Bachelor's degree in Information Systems at **FIPP - Unoeste (Universidade do Oeste Paulista)**.
