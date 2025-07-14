@@ -27,14 +27,14 @@ Developing payment method for online store.
 | **Frontend**    | React, Solid.Js, JQuery, Vue.js               |
 
 
-## **Merit Certificates (Among the Top 5 Averages):**
+## **Merit Certificates (Among the Top 5 Averages):** 
 
-* 1st Term - 5th Place 
-* 2nd Term - 2nd Place
-* 3rd Term - 1st Place
-* 4th Term - 2nd Place
-* 5th Term - 1st Place
 * 6th Term - 1st Place
+* 5th Term - 1st Place
+* 4th Term - 2nd Place
+* 3rd Term - 1st Place
+* 2nd Term - 2nd Place
+* 1st Term - 5th Place
 
 <h3 align="left">Languages and Tools:</h3> 
 <br>
