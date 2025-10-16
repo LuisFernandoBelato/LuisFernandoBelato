@@ -3,7 +3,7 @@
 ## Education
 Pursuing a Bachelor's degree in Information Systems at **FIPP - Unoeste (Universidade do Oeste Paulista)**.
 
-## Resume
+## Curriculum Vitae
 https://luisfernandobelato.github.io/Curriculo-Vitae/
 
 ## Current Work
