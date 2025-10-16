@@ -1,10 +1,10 @@
 # I'm Luis Fernando Oliveira Belato | **Full-Stack Developer**
 
-## Education
-Pursuing a Bachelor's degree in Information Systems at **FIPP - Unoeste (Universidade do Oeste Paulista)**.
-
 ## Curriculum Vitae
 https://luisfernandobelato.github.io/Curriculo-Vitae/
+
+## Education
+Pursuing a Bachelor's degree in Information Systems at **FIPP - Unoeste (Universidade do Oeste Paulista)**.
 
 ## Current Work
 Currently working as a Software Development Intern on **iBati - Tecnologia e Gestão de ocorrências Ltda**, gaining hands-on experience in full-stack web application.
