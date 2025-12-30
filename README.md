@@ -1,7 +1,6 @@
 # I'm Luis Fernando Oliveira Belato | **Full-Stack Developer**
 
-## Curriculum Vitae
-https://luisfernandobelato.github.io/Curriculo-Vitae/
+## <a href="https://luisfernandobelato.github.io/Curriculo-Vitae/" title="Curriculum Vitae" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
 
 ## Education
 Pursuing a Bachelor's degree in Information Systems at **FIPP - Unoeste (Universidade do Oeste Paulista)**.
@@ -40,6 +39,8 @@ Developing payment method for online store.
 * 2nd Term - 2nd Place
 * 1st Term - 5th Place
 
+---
+
 <h3 align="left">Languages and Tools:</h3> 
 <br>
 <div align="center" >
@@ -49,12 +50,7 @@ Developing payment method for online store.
   <br />
 </div>
 
-<br>
-
-![Status](./profile-3d-contrib/profile-night-green.svg)
-
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuisFernandoBelato&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisFernandoBelato&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
-
+<!-- 
+![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisFernandoBelato&theme=dracula)
+-->
 
