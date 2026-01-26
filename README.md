@@ -31,6 +31,7 @@ Developing payment method for online store.
 
 ## **Merit Certificates (Among the Top 5 Averages):** 
 
+* 8th Term - 3rd Place
 * 7th Term - 1st Place
 * 6th Term - 1st Place
 * 5th Term - 1st Place
