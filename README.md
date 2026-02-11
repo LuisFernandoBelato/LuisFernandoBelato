@@ -33,6 +33,7 @@ Developing payment method for online store.
 ## How to Reach Me
 [![Email](https://img.shields.io/badge/Email-luisferbelato@gmail.com-blue?style=flat&logo=gmail)](mailto:luisferbelato@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luisfernandobelato-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luisfernandobelato)
+[![Curriculum](https://img.shields.io/badge/Currículo-PDF-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://luisfernandobelato.github.io/Curriculo-Vitae/)
 
 
 ## Technical Skills
