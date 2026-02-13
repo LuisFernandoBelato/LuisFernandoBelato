@@ -3,7 +3,7 @@
 ## <a href="https://luisfernandobelato.github.io/Curriculo-Vitae/" title="Curriculum Vitae" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
 
 ## Education
-Pursuing a Bachelor's degree in Information Systems at **FIPP - Unoeste (Universidade do Oeste Paulista)**.
+### Pursuing a Bachelor's degree in Information Systems at **FIPP - Unoeste (Universidade do Oeste Paulista)**.
 
 ## Current Work
 Currently working as a Software Development Intern on **iBati - Tecnologia e Gestão de ocorrências Ltda**, gaining hands-on experience in full-stack web application.
@@ -28,7 +28,7 @@ Developing payment method for online store.
 - **Tools** -  Google Colab, MySQL Workbench, Git, Monday (WorkFlow Software), Swagger
 
 ## Currently Learning
-- Exploratory Data Analysis & Data Science
+- Exploratory Data Analysis & Data Science **(Essential Math for Data Science - Thomas Nield)**
 
 ## How to Reach Me
 [![Email](https://img.shields.io/badge/Email-luisferbelato@gmail.com-blue?style=flat&logo=gmail)](mailto:luisferbelato@gmail.com)
@@ -39,9 +39,9 @@ Developing payment method for online store.
 ## Technical Skills
 | Category        | Technologies                                  |
 |-----------------|-----------------------------------------------|  
-| **Analytics**   | Python, Pandas                                |
-| **Backend**     | Node.js, TypeScript, Java (SpringBoot), C#    |
+| **Backend**     | Node.js, TypeScript, SpringBoot, C#, Docker   |
 | **Frontend**    | React, Solid.Js, JQuery, Vue.js               |
+| **Analytics**   | Python, Pandas                                |
 
 ---
 
