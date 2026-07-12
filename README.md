@@ -1,6 +1,20 @@
 # I'm Luis Fernando Oliveira Belato | **Full-Stack Developer**
 
-## <a href="https://luisfernandobelato.github.io/Curriculo-Vitae/" title="Curriculum Vitae" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
+<!-- ## <a href="https://luisfernandobelato.github.io/Curriculo-Vitae/" title="Curriculum Vitae" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a> -->
+
+## How to Reach Me
+
+<p align="center">
+  <a href="https://luisfernandobelato.github.io/Curriculo-Vitae/">
+    <img src="https://img.shields.io/badge/Resume-Currículo-7C3AED?style=for-the-badge&logo=safari&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luisfernandobelato">
+    <img src="https://img.shields.io/badge/LinkedIn-luisfernandobelato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:luisferbelato@gmail.com">
+    <img src="https://img.shields.io/badge/Email-luisferbelato@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ## Education
 ### Bachelor's degree in Information Systems at **FIPP - Unoeste (Universidade do Oeste Paulista)**.
@@ -28,12 +42,7 @@ Responsible for implementing payment integrations (Pagar.me API) and internal ed
 - **Tools** - Git, Swagger, Android Studio, MySQL Workbench, Google Colab
 
 ## Currently Learning
-- Exploratory Data Analysis & Data Science **(Essential Math for Data Science - Thomas Nield)**
-
-## How to Reach Me
-[![Email](https://img.shields.io/badge/Email-luisferbelato@gmail.com-blue?style=flat&logo=gmail)](mailto:luisferbelato@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisfernandobelato-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luisfernandobelato)
-[![Curriculum](https://img.shields.io/badge/Currículo-PDF-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://luisfernandobelato.github.io/Curriculo-Vitae/)
+- Exploratory Data Analysis & Data Science **(Essential Math for Data Science - Thomas Nield)**.
 
 ## Technical Skills
 | Category        | Technologies                                                               |
