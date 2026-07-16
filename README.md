@@ -21,7 +21,7 @@
 
 ## Current Work
 Currently working as a **Software Developer (Full-Stack)** on **iBati - Tecnologia e Gestão de Ocorrências**, developing SaaS solutions for the Insurance market (Insurtech).
-Responsible for implementing payment integrations (Pagar.me API) and internal educational platforms (iBati Academy).
+Responsible for implementing payment integrations (PagBank - PagSeguro API) and internal educational platforms (iBati Academy).
 
 ## **Best Undergraduate Student**
 ### Honored by the **Brazilian Computer Society (SBC)** as the **OUTSTANDING STUDENT** of the 43rd Bachelor of Information Systems Class - SP (FIPP/UNOESTE) 2022 - 2025
